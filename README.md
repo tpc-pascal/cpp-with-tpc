@@ -1,6 +1,6 @@
 # cpp-with-tpc
 Don't let your day be meaningless, just try coding CPP with me.
-Danh sách phía dưới là nguồn tham khảo, không hoàn toàn tuân theo, mà mục đích chính là giải quyết các vấn đề có liên quan đến bài toán
+Danh sách phía dưới là nguồn tham khảo, không hoàn toàn tuân theo, mà chỉ giải quyết các vấn đề có liên quan theo hướng suy nghĩ cá nhân của tôi.
 
 DRIVE:
 - [300 Exercise Code For Youth](https://drive.google.com/file/d/1pbDj3u8VYD3H0v-lSiFSNqFc43PBzds8/view?usp=sharing)
@@ -18,3 +18,4 @@ WEB:
 - [OJ-VNOI](https://oj.vnoi.info)
 - [FullHouseDev](https://fullhousedev.com)
 - [FreeContest](https://freecontest.net)
+- [MarisaOJ](https://marisaoj.com)
