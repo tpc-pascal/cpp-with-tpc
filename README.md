@@ -21,6 +21,8 @@ WEB:
 - [FreeContest](https://freecontest.net)
 - [MarisaOJ](https://marisaoj.com)
 - [LibreOJ](https://loj.ac)
+- [LQDOJ](https://lqdoj.edu.vn)
+- [VinhDinhCoder](https://vinhdinhcoder.net)
 
 PAGE:
 - [ClubProPTIT](https://www.facebook.com/clubproptit)
