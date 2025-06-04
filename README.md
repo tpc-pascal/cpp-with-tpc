@@ -4,6 +4,7 @@ Don't let your day be meaningless, just try coding CPP with me.
 //=========================================================//
 
 10 CPP files / day, when I have free time.
+I will try to upload as much as I can, unless I am sick or need to take a break.
 
 Danh sách phía dưới là nguồn tham khảo, không hoàn toàn tuân theo, mà chỉ giải quyết các vấn đề có liên quan theo hướng suy nghĩ cá nhân của tôi.
 
