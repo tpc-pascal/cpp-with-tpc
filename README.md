@@ -4,7 +4,7 @@ Tôi yêu lập trình, C++ là một trong số đó, đồng hành cùng tôi 
 
 ## GHI CHÚ
 
-- Solution chưa hoàn toàn tối ưu về bộ nhớ và thời gian xử lý, chủ yếu dựa vào ý tưởng và kiến thức của tôi trong giai đoạn code này được push lên.
+- Solution chưa hoàn toàn tối ưu về bộ nhớ và thời gian xử lý, chủ yếu dựa vào ý tưởng và kiến thức của tôi trong giai đoạn code này được push lên (khả năng trong tương lai sẽ có code mới tối ưu hơn).
 - 10 CPP files / day, when I have free time.
 - I will try to upload as much as I can, unless I am sick or need to take a break.
 - Danh sách phía dưới là nguồn tham khảo, không hoàn toàn tuân theo, mà chỉ giải quyết các vấn đề có liên quan theo hướng suy nghĩ cá nhân của tôi.
