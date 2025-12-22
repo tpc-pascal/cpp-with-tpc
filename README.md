@@ -11,6 +11,10 @@ Tôi yêu lập trình, C++ là một trong số đó, đồng hành cùng tôi 
 - Biến số lượng T có vai trò lặp lại việc giải quyết bài toán trong cùng lần run hoặc là số lượng truy vấn (tùy theo problem). T > 0 thì giới hạn T lần chạy, T < 0 thì chạy vô hạn đến khi đóng chương trình hoặc nhấn tổ hợp phím gây gián đoạn (Ctrl+Z, Ctrl+C).
 - Chương trình sẽ hoạt động tốt nhất nếu các variable được nhập đúng thứ tự và điều kiện mà phần mô tả yêu cầu.
 
+![About This Repo](cpp-with-tpc.png)
+
+---
+
 ## DANH SÁCH BÀI TOÁN
 
 ### Online Judge
