@@ -1,30 +1,52 @@
-# CPP WITH TPC 🧑‍💻
+# cpp-with-tpc
 
-Tôi yêu lập trình, C++ là một trong số đó, đồng hành cùng tôi trên con đường giải quyết những bài toán hóc búa.
+Hành trình rèn luyện C++ mỗi ngày qua các bài toán cấu trúc dữ liệu và tối ưu thuật toán
 
-## GHI CHÚ
+<p align="center">
+  <img src="cpp-with-tpc.png" width="625" alt="Logo">
+</p>
 
-- Solution chưa hoàn toàn tối ưu về bộ nhớ và thời gian xử lý, chủ yếu dựa vào ý tưởng và kiến thức của tôi trong giai đoạn code này được push lên (khả năng trong tương lai sẽ có code mới tối ưu hơn).
-- 10 CPP files / day, when I have free time.
-- I will try to upload as much as I can, unless I am sick or need to take a break.
-- Danh sách phía dưới là nguồn tham khảo, không hoàn toàn tuân theo, mà chỉ giải quyết các vấn đề có liên quan theo hướng suy nghĩ cá nhân của tôi.
-- Biến số lượng T có vai trò lặp lại việc giải quyết bài toán trong cùng lần run hoặc là số lượng truy vấn (tùy theo problem). T > 0 thì giới hạn T lần chạy, T < 0 thì chạy vô hạn đến khi đóng chương trình hoặc nhấn tổ hợp phím gây gián đoạn (Ctrl+Z, Ctrl+C).
-- Chương trình sẽ hoạt động tốt nhất nếu các variable được nhập đúng thứ tự và điều kiện mà phần mô tả yêu cầu.
-
-![About This Repo](cpp-with-tpc.png)
+<p align="center">
+  <img src="https://img.shields.io/github/license/tpc-pascal/cpp-with-tpc?style=flat-square" width="100" alt="License">
+  <img src="https://img.shields.io/github/languages/top/tpc-pascal/cpp-with-tpc?style=flat-square" width="100" alt="Language">
+</p>
 
 ---
 
-## DANH SÁCH BÀI TOÁN
+## 📖 Giới thiệu
+Tôi yêu lập trình, và C++ là ngôn ngữ đồng hành cùng tôi trên con đường giải quyết những bài toán hóc búa. Repo này là nơi lưu trữ hành trình rèn luyện thuật toán mỗi ngày của tôi.
 
-### Online Judge
+## 🛠 Thông tin kỹ thuật
+* **Ngôn ngữ:** C++ (Standard C++17 trở lên).
+* **Trình biên dịch khuyến nghị:** `GCC 9.0+` hoặc `Clang 10.0+`.
+* **Cách biên dịch thủ công:**
+    ```bash
+    g++ -std=c++17 -O2 filename.cpp -o main
+    ./main
+    ```
 
-- [Luyen Code](https://luyencode.net)
-- [NTUCoder](https://thptchuyen.ntucoder.net)
-- [OJ-VNOI](https://oj.vnoi.info)
+## 📊 Thống kê giải bài (Tracking)
+| Nguồn bài tập | Trạng thái | Ghi chú |
+| :--- | :---: | :--- |
+| [Luyen Code](https://luyencode.net) | 🟡 Đang thực hiện | Giải theo lộ trình cơ bản |
+| [NTUCoder](https://thptchuyen.ntucoder.net) | 🟡 Đang thực hiện | Các bài tập HSG |
+| [OJ-VNOI](https://oj.vnoi.info) | 🟡 Đang thực hiện | Các bài tập thuật toán nâng cao |
+| [300 Exercise Code For Youth](https://drive.google.com/file/d/1pbDj3u8VYD3H0v-lSiFSNqFc43PBzds8/view?usp=sharing) | 🟡 Đang thực hiện | Luyện tư duy căn bản |
 
-### Drive
+## 📝 Ghi chú quan trọng
+* **Tính tối ưu:** Các solution tập trung vào ý tưởng giải quyết vấn đề tại thời điểm viết. Trong tương lai, tôi sẽ cập nhật các phiên bản tối ưu hơn về bộ nhớ và thời gian xử lý.
+* **Tần suất:** Mục tiêu ít nhất 1 file `.cpp` mỗi ngày khi có thời gian rảnh.
+* **Cơ chế vòng lặp (T):**
+    * `T > 0`: Chạy chương trình `T` lần (số lượng test case).
+    * `T < 0`: Chạy vô hạn cho đến khi nhận tín hiệu ngắt (`Ctrl+Z`, `Ctrl+C`).
+* **Input:** Chương trình hoạt động tốt nhất khi dữ liệu nhập vào tuân thủ đúng định dạng và điều kiện của đề bài.
 
-- [300 Exercise Code For Youth](https://drive.google.com/file/d/1pbDj3u8VYD3H0v-lSiFSNqFc43PBzds8/view?usp=sharing)
+## 🤝 Đóng góp (Contributing)
+Mọi ý đóng góp về các giải pháp tối ưu hơn luôn được chào đón. Bạn có thể:
+1. Fork dự án.
+2. Tạo Branch mới (`git checkout -b feature/Optimization`).
+3. Commit thay đổi của bạn.
+4. Push lên Branch và mở một **Pull Request**.
 
-### MORE RESOURCES COMING SOON!
+---
+*Chúc bạn có những giờ phút coding vui vẻ!* 🚀
