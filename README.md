@@ -1,9 +1,9 @@
 # cpp-with-tpc
 
-Hành trình rèn luyện C++ mỗi ngày qua các bài toán cấu trúc dữ liệu và tối ưu thuật toán
+Hành trình rèn luyện C++ mỗi ngày qua các bài toán cấu trúc dữ liệu và tối ưu thuật toán.
 
 <p align="center">
-  <img src="cpp-with-tpc.png" width="625" alt="Logo">
+  <img src="cpp-with-tpc.png" width="400" alt="Logo">
 </p>
 
 <p align="center">
