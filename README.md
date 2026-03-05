@@ -7,7 +7,8 @@ Hành trình rèn luyện C++ mỗi ngày qua các bài toán cấu trúc dữ l
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/tpc-pascal/cpp-with-tpc?style=flat-square" width="100" alt="License">
+<img src="https://img.shields.io/github/last-commit/tpc-pascal/cpp-with-tpc?style=flat-square" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/tpc-pascal/cpp-with-tpc?style=flat-square" alt="Repo Size">
   <img src="https://img.shields.io/github/languages/top/tpc-pascal/cpp-with-tpc?style=flat-square" width="100" alt="Language">
 </p>
 
