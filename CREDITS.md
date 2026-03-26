@@ -11,10 +11,7 @@ Dưới đây là danh sách các tài liệu, mô hình và bộ dữ liệu đ
 
 | STT | Tác giả | Nội dung tham khảo | Liên kết |
 |:---:|:---|:---|:---|
-| 1 | **winter2897** | Bộ dữ liệu biển số xe Việt Nam | [Vietnamese Plate Dataset](https://github.com/winter2897/Real-time-Auto-License-Plate-Recognition-with-Jetson-Nano/blob/main/doc/dataset.md) |
-| 2 | **ultralytics** | Mô hình thị giác máy tính xây dựng bằng framework PyTorch | [YOLOv5](https://github.com/ultralytics/yolov5) |
-| 3 | **Roboflow Universe Projects** | Bộ dữ liệu biển số xe thế giới | [License Plate Recognition Computer Vision Model](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e) |
-| 4 | **qndev** | Đặc tả yêu cầu phần mềm | [Tài liệu](https://qndev.github.io/resources/SRS.pdf) |
+| 1 | ... | ... | ... |
 </details>
 
 ---
@@ -23,10 +20,7 @@ Dưới đây là danh sách các tài liệu, mô hình và bộ dữ liệu đ
 
 Chúng tôi xin gửi lời cảm ơn đến các cộng đồng và nền tảng phát triển các công cụ sau:
 
-* **Ngôn ngữ:** Python.
-* **Thị giác máy tính:** Ultralytics (YOLOv5).
-* **Cơ sở dữ liệu:** SQL Server (Microsoft).
-* **Thiết kế:** Draw.io, PlantUML (Sơ đồ kiến trúc), Figma (Thiết kế giao diện).
+* **Ngôn ngữ:** C++.
 
 ---
 
