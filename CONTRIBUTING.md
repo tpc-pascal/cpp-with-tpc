@@ -43,5 +43,5 @@ Trước khi gửi Pull Request, vui lòng đảm bảo:
 
 Nếu có bất kỳ thắc mắc nào về luồng dữ liệu hoặc cấu trúc:
 
-* [Mở một Issue](https://github.com/tpc-pascal/Smart-Parking-System/issues) trên repo này.
-* Gửi câu hỏi qua phần [Thảo luận (Discussions)](https://github.com/tpc-pascal/Smart-Parking-System/discussions) của dự án.
+* [Mở một Issue](https://github.com/tpc-pascal/cpp-with-tpc/issues) trên repo này.
+* Gửi câu hỏi qua phần [Thảo luận (Discussions)](https://github.com/tpc-pascal/cpp-with-tpc/discussions) của dự án.
