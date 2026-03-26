@@ -14,6 +14,17 @@ Hành trình rèn luyện C++ mỗi ngày qua các bài toán cấu trúc dữ l
 
 ---
 
+## 🎉 Tác giả
+
+[![Contributors](https://contributors-img.web.app/image?repo=tpc-pascal/Smart-Parking-System)](https://github.com/tpc-pascal/Smart-Parking-System/graphs/contributors)
+<details open>
+<summary><b>🔍 Các thành viên</b></summary>
+
+| STT | Tên | Vai trò |
+|:---:|:---|:---|
+| 1 | Trịnh Phú Cường | Vận động trí não giải bài toán khó |
+</details>
+
 ## 📖 Giới thiệu
 Tôi yêu lập trình, và C++ là ngôn ngữ đồng hành cùng tôi trên con đường giải quyết những bài toán hóc búa. Repo này là nơi lưu trữ hành trình rèn luyện thuật toán mỗi ngày của tôi.
 
@@ -42,12 +53,23 @@ Tôi yêu lập trình, và C++ là ngôn ngữ đồng hành cùng tôi trên c
     * `T < 0`: Chạy vô hạn cho đến khi nhận tín hiệu ngắt (`Ctrl+Z`, `Ctrl+C`).
 * **Input:** Chương trình hoạt động tốt nhất khi dữ liệu nhập vào tuân thủ đúng định dạng và điều kiện của đề bài.
 
-## 🤝 Đóng góp (Contributing)
-Mọi ý đóng góp về các giải pháp tối ưu hơn luôn được chào đón. Bạn có thể:
-1. Fork dự án.
-2. Tạo Branch mới (`git checkout -b feature/Optimization`).
-3. Commit thay đổi của bạn.
-4. Push lên Branch và mở một **Pull Request**.
+## 📁 Cấu trúc thư mục
 
----
-*Chúc bạn có những giờ phút coding vui vẻ!* 🚀
+```text
+cpp-with-tpc/
+├── 2025/
+├── 2026/
+├── .gitignore
+├── CONTRIBUTING.md
+├── CREDITS.md
+├── LICENSE
+└── README.md
+```
+
+## ✈ Hướng dẫn đóng góp
+
+Đọc thêm tại [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+## 🙏 Nguồn tham khảo
+
+Đọc thêm tại [CREDITS.md](./CREDITS.md)
