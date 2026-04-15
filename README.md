@@ -22,7 +22,7 @@ Hành trình rèn luyện C++ mỗi ngày qua các bài toán cấu trúc dữ l
 
 | STT | Tên | Vai trò |
 |:---:|:---|:---|
-| 1 | Trịnh Phú Cường | Vận động trí não giải bài toán khó |
+| 1 | [tpc-pascal](https://github.com/tpc-pascal) | Vận động trí não giải bài toán khó |
 </details>
 
 ## 📖 Giới thiệu
