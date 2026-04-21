@@ -55,7 +55,7 @@ Tôi yêu lập trình, và C++ là ngôn ngữ đồng hành cùng tôi trên c
 
 ## 📁 Cấu trúc thư mục
 
-```text
+```
 cpp-with-tpc/
 ├── 2025/
 ├── 2026/
